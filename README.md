@@ -28,7 +28,9 @@
 ###安装包
 在GitHub工程目录下的publish目录下有Android的apk安装包
 
-本项目可以使用cocos code ide导入
+本项目可以使用cocos code ide导入1
+11
+
 
 ![image](http://git.oschina.net/nov_eleven/photo/raw/master/snake2.png)
 
